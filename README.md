@@ -14,6 +14,8 @@ csv module:
 
 
 Run "python StockInfo.py" from your terminal.
+In StockInfo.py, change the stock names by adding the corresponding stock url's to the global array.
+It currently supports only moneycontrol.com
 
 
 
